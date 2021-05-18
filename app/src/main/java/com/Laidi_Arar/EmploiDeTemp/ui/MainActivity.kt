@@ -1,8 +1,8 @@
-package com.Laidi_Arar.biblo.ui
+package com.Laidi_Arar.EmploiDeTemp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.Laidi_Arar.biblo.R
+import com.Laidi_Arar.EmploiDeTemp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

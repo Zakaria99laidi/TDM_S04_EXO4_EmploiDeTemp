@@ -1,9 +1,9 @@
-package com.Laidi_Arar.biblo.ui
+package com.Laidi_Arar.EmploiDeTemp.ui
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.Laidi_Arar.biblo.ui.model.Seance
-import com.Laidi_Arar.biblo.ui.model.getListSeance
+import com.Laidi_Arar.EmploiDeTemp.ui.model.Seance
+import com.Laidi_Arar.EmploiDeTemp.ui.model.getListSeance
 
 object ViewModel {
     val bookList : List<Seance> = getListSeance()

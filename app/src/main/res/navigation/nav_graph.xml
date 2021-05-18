@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/bookListFragment"
-        android:name="com.Laidi_Arar.biblo.ui.SeanceListFragment"
+        android:name="com.Laidi_Arar.EmploiDeTemp.ui.SeanceListFragment"
         android:label="fragment_book_list"
         tools:layout="@layout/fragment_seance_list" >
         <action
@@ -20,7 +20,7 @@
     </fragment>
     <fragment
         android:id="@+id/moduleDetailsFragment"
-        android:name="com.Laidi_Arar.biblo.ui.ModuleDetailsFragment"
+        android:name="com.Laidi_Arar.EmploiDeTemp.ui.ModuleDetailsFragment"
         android:label="fragment_book_details"
         tools:layout="@layout/fragment_module_details" >
         <action
@@ -33,7 +33,7 @@
     </fragment>
     <fragment
         android:id="@+id/teacherFragment"
-        android:name="com.Laidi_Arar.biblo.ui.TeacherFragment"
+        android:name="com.Laidi_Arar.EmploiDeTemp.ui.TeacherFragment"
         android:label="fragment_teacher"
         tools:layout="@layout/fragment_teacher" />
 </navigation>

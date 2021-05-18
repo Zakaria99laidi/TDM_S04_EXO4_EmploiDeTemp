@@ -1,4 +1,4 @@
-package com.Laidi_Arar.biblo.ui.model
+package com.Laidi_Arar.EmploiDeTemp.ui.model
 
 class Teacher(
     val firstName : String ,

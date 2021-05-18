@@ -1,9 +1,9 @@
-package com.Laidi_Arar.biblo.ui
+package com.Laidi_Arar.EmploiDeTemp.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.View
-import com.Laidi_Arar.biblo.R
+import com.Laidi_Arar.EmploiDeTemp.R
 import kotlinx.android.synthetic.main.fragment_teacher.*
 
 
